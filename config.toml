@@ -1,0 +1,23 @@
+# The URL the site will be built for
+base_url = "https://dannydoes.graphics"
+theme = "no-style-please"
+compile_sass = true
+generate_feed = true
+
+taxonomies = [{ name = "categories" }]
+
+[markdown]
+highlight_code = false
+
+[extra]
+header_nav = [
+    { name = "~home", url = "/" },
+    { name = "+categories", url = "/categories" },
+]
+author = "Danny Le"
+footer_nav = [
+    { name = "< previous", url = "#" },
+    { name = "webring", url = "#" },
+    { name = "next >", url = "#" },
+]
+add_toc = true
