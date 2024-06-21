@@ -1,1 +1,4 @@
 public/*
+*.wasm
+static/hl-light.css
+static/hl-dark.css

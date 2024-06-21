@@ -1,0 +1,8 @@
+[[project]]
+name = "Danny's Awesome Rendering Engine"
+desc = "A vulkan + rust toy rendering engine"
+tags = ["computer_graphics", "rust"]
+img = ""
+links = [
+  { name = "source", url = "https://github.com/DannyDoesGraphics/DARE" }
+]

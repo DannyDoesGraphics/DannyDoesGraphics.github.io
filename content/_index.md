@@ -1,10 +1,15 @@
----
----
++++
+template = "home.html"
 
-- whoami
-  - university of guelph student, computer science
-  - graphics programmer
-  - [github](https://github.com/DannyDoesGraphics)
-- [projects](./categories/projects)
-  - [DARE](./dare)
-  - [University of Guelph Discord Bot](./ugracing-bot)
+[extra]
+lang = "en"
+math = false
+mermaid = false
+copy = false
+comment = false
++++
+
+AHHHHHHHHHHHHHHHHHHHH!
+
+
+Logo provided courtesy of: azkin, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons
