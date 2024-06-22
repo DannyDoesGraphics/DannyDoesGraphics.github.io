@@ -46,7 +46,7 @@ bio = "What's going on!?!"                          # Your bio
 avatar = "img/avatar.webp"            # Your avatar
 links = [                             # Your links
     { name = "GitHub", icon = "github", url = "https://github.com/DannyDoesGraphics" },
-    { name = "Email", icon = "email", url = "mailto:git@dannydoes.graphics" },
+    { name = "Email", icon = "email", url = "mailto:contact@dannydoes.graphics" },
 ]
 
 homepage_layout = "about"             # "about" | "list" | "recent"
