@@ -1,0 +1,17 @@
+[[project]]
+name = "Danny's Awesome Rendering Engine"
+desc = "A vulkan + rust toy rendering engine"
+tags = ["computer_graphics", "rust"]
+img = ""
+links = [
+  { name = "source", url = "https://github.com/DannyDoesGraphics/DARE" }
+]
+
+[[project]]
+name = "University of Guelph Student FSAE Discord Bot"
+desc = "A permission management bot which handles over 300 members seamlessly with MySQL and Rust."
+tags = ["rust"]
+img = ""
+links = [
+  { name = "source", url = "https://github.com/GryphonRacingFSAE/Discord-Bot" }
+]
